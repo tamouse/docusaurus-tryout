@@ -1,0 +1,10 @@
+{
+  "name": "docusaurus-tryout",
+  "version": "1.0.0",
+  "description": "Trying out Docusaurus.IO ",
+  "main": "index.js",
+  "repository": "git@github.com:tamouse/docusaurus-tryout.git",
+  "author": "Tamara Temple <tamouse@gmail.com>",
+  "license": "ISC",
+  "private": true
+}
